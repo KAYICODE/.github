@@ -1,3 +1,3 @@
-## KAYI CODE
+# KAYI CODE
 
 Tarihi teknolojiyle birleştiren takım
